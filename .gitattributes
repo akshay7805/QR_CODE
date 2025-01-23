@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+MODULES
+Using pip install qrcode,pillow
+then using import the module
+URL is given in code
